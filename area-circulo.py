@@ -1,6 +1,5 @@
 from math import pi
 
-
 radio = float(input("Por favor, ingrese el radio del circulo: "))
 
 area = pi * radio ** 2
